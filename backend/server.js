@@ -12,7 +12,7 @@ const corsOptions = {
   origin: [
     "http://localhost:3000",
     "http://localhost:3001",
-    "https://your-frontend-url.onrender.com", // Update this after deploying frontend
+    "https://expense-tracker-1-8rvc.onrender.com", // Update this after deploying frontend
     /\.onrender\.com$/, // Allow all Render preview deployments
   ],
   credentials: true,
